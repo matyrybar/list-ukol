@@ -25,6 +25,7 @@ let comments = [
         date: "12. 9. 2023. 19:21",
         text: "strasne se mi to libi😍"
     },
+
 ];
 
 let commentsAll = document.getElementById("comments");
